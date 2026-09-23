@@ -1,0 +1,3 @@
+Hello, python file handling 
+Hello, this is a file handling operation 
+File being appended 
